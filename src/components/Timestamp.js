@@ -7,7 +7,7 @@ function Timestamp(props) {
 
 
 
-        <span className="timestamp">{props.timestamps}</span>
+        <span className="timestamp">{props.time}</span>
 
 
 
